@@ -21,5 +21,10 @@ class CustomRoutesTest < ActionDispatch::IntegrationTest
 		
 	end
 
+	test "profile page workds" do
+		get '/goumie'
+		assert_response :success
+	end
+
 
 end
