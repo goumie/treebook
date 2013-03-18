@@ -11,3 +11,10 @@ bob:
   email: "goumenosb.c@gmail.com"
 
   profile_name: "goumie14"
+
+mike:
+  first_name: "mike"
+  last_name: "Goumenos"
+  email: "goumenosm.c@gmail.com"
+
+  profile_name: "goumie13"
